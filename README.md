@@ -1,6 +1,5 @@
 # 💫 About Me:
-Mobile & WEB Developer based in Brazil<br>Yoga Teacher at Meraki Yoga <br>Content creator on YouTube 
-
+Mobile & WEB Developer based in Brazil<br>Yoga Teacher at Meraki Yoga <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maridecarvalho) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maoaktree) 
